@@ -1,0 +1,44 @@
+{
+  "common": {
+    "home": "Home",
+    "events": "Events",
+    "recommendations": "Recommendations",
+    "dashboard": "Dashboard",
+    "myEvents": "My Events",
+    "reports": "Reports",
+    "support": "Support",
+    "login": "Login",
+    "logout": "Logout",
+    "createTicket": "Create Ticket"
+  },
+  "home": {
+    "title": "Discover the best events",
+    "search": "Search for an event..."
+  },
+  "event": {
+    "buyTickets": "Buy Tickets",
+    "date": "Date",
+    "location": "Location"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "email": "Email",
+    "password": "Password",
+    "signInWithGoogle": "Sign in with Google",
+    "signInWithFacebook": "Sign in with Facebook",
+    "loginSuccess": "Login successful",
+    "loginError": "Login error"
+  },
+  "createTicket": {
+    "createTicket": "Create Ticket",
+    "eventName": "Event Name",
+    "eventDate": "Event Date",
+    "eventLocation": "Event Location",
+    "ticketPrice": "Ticket Price",
+    "ticketQuantity": "Ticket Quantity",
+    "eventDescription": "Event Description",
+    "notLoggedIn": "You must be logged in to create a ticket",
+    "ticketCreated": "Ticket created successfully"
+  }
+}
+

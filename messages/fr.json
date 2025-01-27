@@ -1,0 +1,44 @@
+{
+  "common": {
+    "home": "Accueil",
+    "events": "Événements",
+    "recommendations": "Recommandations",
+    "dashboard": "Tableau de bord",
+    "myEvents": "Mes événements",
+    "reports": "Rapports",
+    "support": "Support",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "createTicket": "Créer un ticket"
+  },
+  "home": {
+    "title": "Découvrez les meilleurs événements",
+    "search": "Rechercher un événement..."
+  },
+  "event": {
+    "buyTickets": "Acheter des billets",
+    "date": "Date",
+    "location": "Lieu"
+  },
+  "auth": {
+    "signIn": "Connexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "signInWithGoogle": "Se connecter avec Google",
+    "signInWithFacebook": "Se connecter avec Facebook",
+    "loginSuccess": "Connexion réussie",
+    "loginError": "Erreur de connexion"
+  },
+  "createTicket": {
+    "createTicket": "Créer un ticket",
+    "eventName": "Nom de l'événement",
+    "eventDate": "Date de l'événement",
+    "eventLocation": "Lieu de l'événement",
+    "ticketPrice": "Prix du ticket",
+    "ticketQuantity": "Quantité de tickets",
+    "eventDescription": "Description de l'événement",
+    "notLoggedIn": "Vous devez être connecté pour créer un ticket",
+    "ticketCreated": "Ticket créé avec succès"
+  }
+}
+
